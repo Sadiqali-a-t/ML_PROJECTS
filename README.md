@@ -11,14 +11,14 @@ This project focuses on predicting whether a customer will purchase a product ba
 
 The project workflow includes:
 
-Data cleaning and preprocessing
+> Data cleaning and preprocessing
 
-Encoding categorical features
+> Encoding categorical features
 
-Exploratory data analysis and visualizations
+> Exploratory data analysis and visualizations
 
-Model training using classification algorithms like Logistic Regression, SVM, KNN, and Random Forest
+> Model training using classification algorithms like Logistic Regression, SVM, KNN, and Random Forest
 
-Performance comparison of models
+> Performance comparison of models
 
-GUI deployment using Tkinter
+> GUI deployment using Tkinter
