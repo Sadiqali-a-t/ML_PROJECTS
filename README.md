@@ -1,4 +1,4 @@
-## ML_PROJECTS
+### ML_PROJECTS
 Welcome to my **Machine Learning Projects** repository! This collection includes various machine learning projects I've worked on as part of my learning journey and practical experience in data science.
 
 # Repository Structure
@@ -42,3 +42,21 @@ The project workflow includes:
 > Performance comparison of models
 
 > GUI deployment using Tkinter
+
+# 3. Employee Attrition Prediction
+
+This project focuses on predicting employee attrition (whether an employee is likely to leave the organization) using machine learning techniques. It uses an HR dataset containing various features such as employee demographics, job roles, salary, job satisfaction, work environment, and performance scores.
+
+The workflow of the project includes:
+
+> Data cleaning and exploratory data analysis (EDA)
+
+> Encoding categorical variables and feature scaling
+
+> Model training using algorithms like Logistic Regression, Decision Tree, Random Forest, and KNN
+
+> Model evaluation using classification metrics
+
+> Insights generation to identify key factors influencing attrition
+
+The goal is to help organizations proactively retain valuable employees by understanding patterns that lead to resignation.
